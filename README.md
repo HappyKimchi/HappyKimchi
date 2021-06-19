@@ -10,6 +10,7 @@ Medium		  : https://happykimchi.medium.com
 
 Happy Kimchi Token ($ kimchi) is a community driven DeFi token. Why do we name it Happy Kimchi? Kimchi is a type of food that is high in nutrients, a full of beta-carotene and other antioxidant compounds that can help reduce the risk of serious health conditions such as stroke, cancer, diabetes, and heart disease. Good health produces a happy life. Our finances are the same, having a good source of income and huge profits indirectly produce a happy life. This inspired us to create a healthy decentralized finance that will bring benefits and create happiness and joy to its hodler.
 “We believe through the power of collective decentralization we can build something stronger than a centralized team ever could create. A community-driven token is nothing without the united individuals who give it purpose.”
+
 Our Vision: Defi platform for everyone
 
 We can see the rate of economic growth is very alarming in this time of pandemic. Many have been laid off and some have had to close their businesses. Opportunities in virtual business are increasing and indirectly creating a new norms in business dealings.
