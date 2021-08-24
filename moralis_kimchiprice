@@ -1,0 +1,20 @@
+curl -X 'GET' \
+  'https://deep-index.moralis.io/api/v2/erc20/0x29e25c58a358e77660bb5e0cef9b9045b10c898a/price?chain=bsc' \
+  -H 'accept: application/json' \
+  -H 'X-API-Key: le6WENNaOS2AAjIylXvMAH5RTpkWZZJ5yo8HzxteK0dk1leApC1lO2S455n3WDV6'
+  
+  https://deep-index.moralis.io/api/v2/erc20/0x29e25c58a358e77660bb5e0cef9b9045b10c898a/price?chain=bsc
+  
+  {
+  "nativePrice": {
+    "value": "102296184931",
+    "decimals": 18,
+    "name": "Binance Coin",
+    "symbol": "BNB"
+  },
+  "usdPrice": 0.000050145013781019,
+  "exchangeAddress": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+  "exchangeName": "PancakeSwap v2"
+}
+
+ content-type: application/json; charset=utf-8 
