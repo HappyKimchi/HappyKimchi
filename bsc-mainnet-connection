@@ -1,0 +1,27 @@
+Mainnet (This is the one you are probably looking for)
+Network Name: Smart Chain
+New RPC URL: https://bsc-dataseed.binance.org/
+ChainID: 56
+Symbol: BNB
+Block Explorer URL: https://bscscan.com
+
+
+If connection fail, please use alternative RPC url to get connected
+
+Recommend:
+
+https://bsc-dataseed1.defibit.io/
+https://bsc-dataseed1.ninicoin.io/
+
+Backups:
+
+https://bsc-dataseed2.defibit.io/
+https://bsc-dataseed3.defibit.io/
+https://bsc-dataseed4.defibit.io/
+https://bsc-dataseed2.ninicoin.io/
+https://bsc-dataseed3.ninicoin.io/
+https://bsc-dataseed4.ninicoin.io/
+https://bsc-dataseed1.binance.org/
+https://bsc-dataseed2.binance.org/
+https://bsc-dataseed3.binance.org/
+https://bsc-dataseed4.binance.org/
